@@ -1,0 +1,9 @@
+# 忽略大型或不想同步的資料夾
+3_topic_classification/
+4_AI_classification/
+5_tag_articles/
+
+# 忽略壓縮檔
+*.zip
+# .env
+2_calculate_supply_chain_risk_and_extract_segments/llm_ready_data_2000_100words_v3(TS).csv

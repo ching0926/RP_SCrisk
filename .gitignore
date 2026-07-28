@@ -1,9 +1,19 @@
 # 忽略整個資料夾（結尾加 /）
 3_主題分類/
+3_topic_classification/
 4_AI分類/
+4_AI_classification/
 5_每個文章做tag/
+5_tag_articles/
+
+# 忽略虛擬環境
+myvenv/
+
+# 忽略產出的大型資料檔案
+2_calculate_supply_chain_risk_and_extract_segments/output/
 
 # 忽略特定副檔名
 *.csv
 *.zip
+*.pkl
 # .env

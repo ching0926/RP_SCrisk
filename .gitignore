@@ -16,4 +16,8 @@ myvenv/
 *.csv
 *.zip
 *.pkl
+*.dta
 # .env
+
+# 忽略下載的複製包資料（大型 .dta 等），保留自己的筆記/程式碼
+Data for Supply Chain Risk Changes in Supplier Composition and Vertical Integration/ReplicationPackge_EGH_v2/
